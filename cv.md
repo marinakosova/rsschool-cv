@@ -30,8 +30,8 @@ I am really passionate about self-development and I read a lot about self-develo
 * Projects from courses (HTML/CSS/JS).
 
 ## Education:
-* Front-end course from **My freedom** (Minsk).
-* Multiple online classes: **Udacity**, **Linda.com**.
+* Front-end course from **Myfreedom** (Minsk).
+* Multiple online classes: **Udacity.com**, **Linda.com**.
 
 ## English:
 I live in America so I have a conversational level of English.
