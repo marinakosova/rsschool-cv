@@ -1,0 +1,75 @@
+/* Reset css */
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+img {
+    height: auto;
+}
+
+
+/* General styles */
+
+.wrapper {
+    margin: 40px auto;
+    padding: 0 10px;
+    max-width: 1024px;
+    font-size: 1.3rem;
+}
+
+
+/* Header styles */
+
+header {
+    text-align: center;
+}
+
+
+/* Sections styles */
+
+.section-text-bold {
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.section-spacing {
+    margin: 40px 0 0;
+}
+
+section ul,
+ol {
+    list-style-position: inside;
+}
+
+
+/* Avatar styles */
+
+.avatar {
+    display: block;
+    margin: 10px auto;
+    max-width: 30%;
+    border-radius: 50%;
+}
